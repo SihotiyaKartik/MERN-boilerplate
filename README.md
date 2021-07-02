@@ -7,6 +7,7 @@
 ```js
 git clone https://github.com/SihotiyaKartik/MERN-boilerplate.git
 ```
+#### after cloning remove image folder from your code.
 ## Installing dependencies
 #### first go to root directory which contains server and client folder and type following code
 ```js
